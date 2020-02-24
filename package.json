@@ -1,0 +1,25 @@
+{
+  "name": "com.io.stay-active",
+  "version": "1.0.0",
+  "description": "This is the backened project for online-movie-event-booking-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolutkarshraj/stay-active-backened.git"
+  },
+  "keywords": [
+    "Designed",
+    "By",
+    "Stay-Active",
+    "Team"
+  ],
+  "author": "Utkarsh Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolutkarshraj/stay-active-backened/issues"
+  },
+  "homepage": "https://github.com/coolutkarshraj/stay-active-backened#readme"
+}
